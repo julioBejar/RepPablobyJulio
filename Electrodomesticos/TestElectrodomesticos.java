@@ -13,8 +13,7 @@ public class TestElectrodomesticos {
 		System.out.println(Chuan.toString());
 		
 		
-		
-		
+	
 		
 		
 	}

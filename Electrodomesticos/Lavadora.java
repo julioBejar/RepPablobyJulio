@@ -17,6 +17,11 @@ public class Lavadora extends Electrodomesticos{
 		
 	}
 	
+	
+	public float nuevafunc() {
+		return peso;
+	}
+
 	public Lavadora(double preciobase, float peso ) {
 		
 		this.preciobase=preciobase;
