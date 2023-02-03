@@ -6,7 +6,7 @@ public class Electrodomesticos {
 
 
 
-	protected double preciobase=100;
+	protected double preciobase=10;
 	protected String color="blanco";
 	protected char consumo='F';
 	protected float peso=5;
